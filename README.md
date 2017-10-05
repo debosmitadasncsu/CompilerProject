@@ -1,6 +1,6 @@
 # CompilerProject
 
-##Compile Instructions:
+## Compile Instructions:
 To compiler the parser run the following java command 
 javac IntermediateCodeGenerator.java
 
@@ -12,5 +12,5 @@ java IntermediateCodeGenerator foo.c
 
 The output will be stored in a file with _gen appended to original name at the same path as original.
 
-Important files:
+## Important files:
 IntermediateCodeGenerator.java: Its the main class used to call scanner, parser and code generators. 
